@@ -1,0 +1,146 @@
+{
+  "Visibility": {
+    "L Hidden": {
+      "$type": "boolean",
+      "$value": "true"
+    },
+    "L+M Hidden": {
+      "$type": "boolean",
+      "$value": "false"
+    },
+    "M+S Hidden": {
+      "$type": "boolean",
+      "$value": "false"
+    },
+    "S Hidden": {
+      "$type": "boolean",
+      "$value": "true"
+    },
+    "Breakpoint": {
+      "$type": "text",
+      "$value": "Tablet"
+    }
+  },
+  "Layout": {
+    "Page Width": {
+      "$type": "number",
+      "$value": 768
+    },
+    "Root Font Size": {
+      "$type": "number",
+      "$value": "{Scale 03}"
+    },
+    "Scale": {
+      "$type": "number",
+      "$value": 1
+    },
+    "Margin": {
+      "$type": "number",
+      "$value": 24
+    },
+    "Page Min-Height": {
+      "$type": "number",
+      "$value": 1024
+    },
+    "Gutter": {
+      "$type": "number",
+      "$value": 24
+    }
+  },
+  "Column size": {
+    "col-1": {
+      "$type": "number",
+      "$value": 38
+    },
+    "col-2": {
+      "$type": "number",
+      "$value": 100
+    },
+    "col-3": {
+      "$type": "number",
+      "$value": 162
+    },
+    "col-4": {
+      "$type": "number",
+      "$value": 224
+    },
+    "col-5": {
+      "$type": "number",
+      "$value": 286
+    },
+    "col-6": {
+      "$type": "number",
+      "$value": 348
+    },
+    "col-7": {
+      "$type": "number",
+      "$value": 410
+    },
+    "col-8": {
+      "$type": "number",
+      "$value": 472
+    },
+    "col-9": {
+      "$type": "number",
+      "$value": 534
+    },
+    "col-10": {
+      "$type": "number",
+      "$value": 596
+    },
+    "col-11": {
+      "$type": "number",
+      "$value": 658
+    },
+    "col-12": {
+      "$type": "number",
+      "$value": 720
+    }
+  },
+  "Container Width": {
+    "L6-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-6}"
+    },
+    "L4-M4-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-4}"
+    },
+    "L3-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-6}"
+    },
+    "L3-M4-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-4}"
+    },
+    "L6-M3-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-3}"
+    },
+    "L9-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-6}"
+    },
+    "L4-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-6}"
+    }
+  },
+  "Font Size": {
+    "Title hero": {
+      "$type": "number",
+      "$value": 56
+    }
+  },
+  "Padding": {
+    "C-72-56-24": {
+      "$type": "number",
+      "$value": 56
+    },
+    "C-64-48-24": {
+      "$type": "number",
+      "$value": 48
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "Visibility": {
+    "L Hidden": {
+      "$type": "boolean",
+      "$value": "false"
+    },
+    "L+M Hidden": {
+      "$type": "boolean",
+      "$value": "false"
+    },
+    "M+S Hidden": {
+      "$type": "boolean",
+      "$value": "true"
+    },
+    "S Hidden": {
+      "$type": "boolean",
+      "$value": "true"
+    },
+    "Breakpoint": {
+      "$type": "text",
+      "$value": "Desktop"
+    }
+  },
+  "Layout": {
+    "Page Width": {
+      "$type": "number",
+      "$value": 1200
+    },
+    "Root Font Size": {
+      "$type": "number",
+      "$value": "{Scale 03}"
+    },
+    "Scale": {
+      "$type": "number",
+      "$value": 1
+    },
+    "Margin": {
+      "$type": "number",
+      "$value": 30
+    },
+    "Page Min-Height": {
+      "$type": "number",
+      "$value": 1080
+    },
+    "Gutter": {
+      "$type": "number",
+      "$value": 24
+    }
+  },
+  "Column size": {
+    "col-1": {
+      "$type": "number",
+      "$value": 73
+    },
+    "col-2": {
+      "$type": "number",
+      "$value": 170
+    },
+    "col-3": {
+      "$type": "number",
+      "$value": 267
+    },
+    "col-4": {
+      "$type": "number",
+      "$value": 364
+    },
+    "col-5": {
+      "$type": "number",
+      "$value": 461
+    },
+    "col-6": {
+      "$type": "number",
+      "$value": 558
+    },
+    "col-7": {
+      "$type": "number",
+      "$value": 655
+    },
+    "col-8": {
+      "$type": "number",
+      "$value": 752
+    },
+    "col-9": {
+      "$type": "number",
+      "$value": 849
+    },
+    "col-10": {
+      "$type": "number",
+      "$value": 946
+    },
+    "col-11": {
+      "$type": "number",
+      "$value": 1043
+    },
+    "col-12": {
+      "$type": "number",
+      "$value": 1140
+    }
+  },
+  "Container Width": {
+    "L6-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-6}"
+    },
+    "L4-M4-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-4}"
+    },
+    "L3-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-3}"
+    },
+    "L3-M4-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-3}"
+    },
+    "L6-M3-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-6}"
+    },
+    "L9-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-9}"
+    },
+    "L4-M6-S12": {
+      "$type": "number",
+      "$value": "{Column size.col-4}"
+    }
+  },
+  "Font Size": {
+    "Title hero": {
+      "$type": "number",
+      "$value": 72
+    }
+  },
+  "Padding": {
+    "C-72-56-24": {
+      "$type": "number",
+      "$value": 72
+    },
+    "C-64-48-24": {
+      "$type": "number",
+      "$value": 64
+    }
+  }
+}

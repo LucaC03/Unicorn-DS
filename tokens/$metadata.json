@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "",
+    "01.Color/SDS Light",
+    "01.Color/SDS Dark",
+    "00.Color Primitives/Value",
+    "01.Responsive/Desktop",
+    "01.Responsive/Mobile",
+    "01.Responsive/Tablet",
+    "00.Typography Primitives/Default",
+    "00.Size/Default"
+  ]
+}
