@@ -674,36 +674,34 @@
       }
     }
   },
-  "": {
-    "Utilities": {
-      "Component notes": {
-        "Regular": {
-          "$type": "typography",
-          "$value": {
-            "fontFamily": "{undefined}",
-            "fontWeight": "{fontWeights.roboto-mono-4}",
-            "lineHeight": "{lineHeights.5}",
-            "fontSize": "{undefined}",
-            "letterSpacing": "{letterSpacing.2}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          }
-        },
-        "Bold": {
-          "$type": "typography",
-          "$value": {
-            "fontFamily": "{undefined}",
-            "fontWeight": "{fontWeights.roboto-mono-5}",
-            "lineHeight": "{lineHeights.5}",
-            "fontSize": "{undefined}",
-            "letterSpacing": "{letterSpacing.2}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          }
+  "Utilities": {
+    "Component notes": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{undefined}",
+          "fontWeight": "{fontWeights.roboto-mono-4}",
+          "lineHeight": "{lineHeights.5}",
+          "fontSize": "{undefined}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{undefined}",
+          "fontWeight": "{fontWeights.roboto-mono-5}",
+          "lineHeight": "{lineHeights.5}",
+          "fontSize": "{undefined}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
         }
       }
     }

@@ -23,78 +23,78 @@
   },
   "Layout": {
     "Page Width": {
-      "$type": "number",
-      "$value": 1200
+      "$type": "dimension",
+      "$value": "75rem"
     },
     "Root Font Size": {
       "$type": "number",
       "$value": "{Scale 03}"
     },
     "Scale": {
-      "$type": "number",
-      "$value": 1
+      "$type": "dimension",
+      "$value": "0.062rem"
     },
     "Margin": {
-      "$type": "number",
-      "$value": 30
+      "$type": "dimension",
+      "$value": "1.875rem"
     },
     "Page Min-Height": {
-      "$type": "number",
-      "$value": 1080
+      "$type": "dimension",
+      "$value": "67.5rem"
     },
     "Gutter": {
-      "$type": "number",
-      "$value": 24
+      "$type": "dimension",
+      "$value": "1.5rem"
     }
   },
   "Column size": {
     "col-1": {
-      "$type": "number",
-      "$value": 73
+      "$type": "dimension",
+      "$value": "4.562rem"
     },
     "col-2": {
-      "$type": "number",
-      "$value": 170
+      "$type": "dimension",
+      "$value": "10.625rem"
     },
     "col-3": {
-      "$type": "number",
-      "$value": 267
+      "$type": "dimension",
+      "$value": "16.688rem"
     },
     "col-4": {
-      "$type": "number",
-      "$value": 364
+      "$type": "dimension",
+      "$value": "22.75rem"
     },
     "col-5": {
-      "$type": "number",
-      "$value": 461
+      "$type": "dimension",
+      "$value": "28.812rem"
     },
     "col-6": {
-      "$type": "number",
-      "$value": 558
+      "$type": "dimension",
+      "$value": "34.875rem"
     },
     "col-7": {
-      "$type": "number",
-      "$value": 655
+      "$type": "dimension",
+      "$value": "40.938rem"
     },
     "col-8": {
-      "$type": "number",
-      "$value": 752
+      "$type": "dimension",
+      "$value": "47rem"
     },
     "col-9": {
-      "$type": "number",
-      "$value": 849
+      "$type": "dimension",
+      "$value": "53.062rem"
     },
     "col-10": {
-      "$type": "number",
-      "$value": 946
+      "$type": "dimension",
+      "$value": "59.125rem"
     },
     "col-11": {
-      "$type": "number",
-      "$value": 1043
+      "$type": "dimension",
+      "$value": "65.188rem"
     },
     "col-12": {
-      "$type": "number",
-      "$value": 1140
+      "$type": "dimension",
+      "$value": "71.25rem"
     }
   },
   "Container Width": {
@@ -129,18 +129,18 @@
   },
   "Font Size": {
     "Title hero": {
-      "$type": "number",
-      "$value": 72
+      "$type": "dimension",
+      "$value": "4.5rem"
     }
   },
   "Padding": {
     "C-72-56-24": {
-      "$type": "number",
-      "$value": 72
+      "$type": "dimension",
+      "$value": "4.5rem"
     },
     "C-64-48-24": {
-      "$type": "number",
-      "$value": 64
+      "$type": "dimension",
+      "$value": "4rem"
     }
   }
 }

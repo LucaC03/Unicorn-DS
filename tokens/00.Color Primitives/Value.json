@@ -86,7 +86,7 @@
   "Brand": {
     "100": {
       "$type": "color",
-      "$value": "#e7f1fe"
+      "$value": "#ff0000"
     },
     "200": {
       "$type": "color",
