@@ -35,7 +35,7 @@
     "Brand": {
       "Default": {
         "$type": "color",
-        "$value": "{Red.500}",
+        "$value": "{Brand.600}",
         "$description": "Bg/Brand/Default"
       },
       "Secondary": {
